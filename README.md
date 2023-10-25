@@ -1,16 +1,14 @@
-### Hi there 👋
+### Bem vindo ao meu perfil. 💠
 
-<!--
-**gabriel1e/gabriel1e** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Samuel Alvarenga Silva.
 
-Here are some ideas to get you started:
+- Estou estudando na alura
+- Estou me desenvolvendo nas linguagens JavaScript, HTML e css.
+- utilizo esse espaço para minha organização e compartilhamento dos meu projetos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Voce pode entra em comtato comigo📫
+
+alvarenga.silva.samuel@escola.pr.gov.br
+
+
+![](https://media.tenor.com/d4sG_BgyH1cAAAAi/maxwell-cat.gif)
